@@ -70,12 +70,11 @@ Project	Description
 📦 Microservices E-Commerce Backend	Users, orders, products, payments, JWT, Redis caching.
 📊 Multi-Pair Strength Meter Engine	Real-time strength calculation across 28 pairs for trading automation.
 
-(I can generate full README pages for each project if you want.)
 
 📈 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" /> </div>
 📬 Contact Me
 <p align="left"> <a href="mailto:your@email.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/YOUR_USERNAME"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /> </a> <a href="https://www.upwork.com/freelancers/~YOUR_UPWORK_ID"> <img src="https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white" /> </a> </p>
-🔥 Personal Motto
 
+🔥 Personal Motto
 “Architecture first. Logic clean. Performance always.”
