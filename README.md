@@ -63,7 +63,7 @@ Performance optimization for high-frequency tasks
 
 Delivered 100+ automated systems, indicators, dashboards, and logic engines
 
-Built the Genius EA System, a complete multi-timeframe rule engine with filters
+Built the Beast EA System, a complete multi-timeframe rule engine with filters
 
 Designed scalable backend systems aligned with clean architecture principles
 
@@ -92,7 +92,7 @@ Redis caching
 
 Modular architecture
 
-⚙️ Genius EA System
+⚙️ Beast EA System
 
 Advanced multi-layered rule engine
 
